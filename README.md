@@ -1,1 +1,4 @@
-# jfrog-github-example
+# JFROG Github Example 
+
+ - /README
+   + /jfrog-github-example/README.md
